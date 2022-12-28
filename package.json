@@ -4,7 +4,6 @@
   "description": "Rest-API - Express JS",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
   },
   "keywords": [
     "mongodb",
